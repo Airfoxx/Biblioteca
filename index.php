@@ -44,7 +44,7 @@
         if ($_GET['vista'] == "login") {
             include "./app/views/login.php";
             //include "../login/login_perro.php";
-        }/*else{
+        }/* else{
 include "./vistas/404.php";
 */
     }
